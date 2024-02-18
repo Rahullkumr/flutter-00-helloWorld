@@ -1,6 +1,6 @@
 <h1 align=center>Flutter ❤</h1>
 
-<div style="text-align: center;" markdown="1">
+<div align=center>
 
 Let's have a demo
 
