@@ -1,5 +1,15 @@
 <h1 align=center>Flutter ❤</h1>
 
+<div style="text-align: center;" markdown="1">
+
+Let's have a demo
+
+[![Demo](https://img.shields.io/badge/open%20in%20dartpad-orange?style=for-the-badge&logo=flutter&logoColor=blue)](https://dartpad.dev/?id=2b61cccc26c7a13ac23f2e3714fc5094)
+
+</div>
+
+---
+
 ## What is Flutter?
 
 - Flutter is a cross platform MAD framework that makes it easy for the developers to build beautiful apps for all screen sizes and devices.
@@ -54,6 +64,5 @@ void main() {
 
 -----
 
-Run any Flutter repository on Zapp website: <a href="https://zapp.run/assets/homepage/import-github.gif">refer this link </a>
-
 List of all Flutter apps: <a href="https://github.com/Rahullkumr/Flutter-Projects-List">click here</a>
+
